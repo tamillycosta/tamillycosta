@@ -6,11 +6,6 @@
 
 ---
 
-## 🌟 Minhas Estatísticas no GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamillycosta&show_icons=true&theme=dracula)
-
----
-
 ## 🔥 Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamillycosta&layout=compact&theme=dracula)
 
