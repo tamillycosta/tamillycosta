@@ -1,15 +1,21 @@
-# Olá! 👋
+# Olá  👋
 
+## Sobre mim
+- 🎓 Estudante de Engenharia de Computação na UEFS (Universidade Estadual de Feira de Santana).
+- 🌟 Apaixonada por tecnologia, desenvolvimento de sistemas e aprendizado constante.
 
-Meu nome é Tamilly Costa Cerqueira, sou estudante de Engenharia de Computação na UEFS (Universidade Estadual de Feira de Santana).
+---
 
-🌱 Atualmente estou aprendendo e aprimorando minhas habilidades em diversas áreas da computação.
+## 🌟 Minhas Estatísticas no GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamillycosta&show_icons=true&theme=dracula)
 
-### Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact)
+---
 
-🚀 Estou em construção da minha carreira como desenvolvedora de software e sempre em busca de novos desafios e aprendizados.
+## 🔥 Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamillycosta&layout=compact&theme=dracula)
 
-Se você quiser entrar em contato ou colaborar comigo em projetos interessantes, sinta-se à vontade para me enviar uma mensagem aqui mesmo no GitHub.
+---
 
+## Vamos nos Conectar? 🤝
+- 💼 [LinkedIn](https://www.linkedin.com/in/tamilly-cerqueira-087972325/)
 
