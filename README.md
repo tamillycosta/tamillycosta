@@ -7,7 +7,9 @@
 ---
 
 ## 🔥 Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamillycosta&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamillycosta&layout=compact&hide=html)
+
+
 
 ---
 
