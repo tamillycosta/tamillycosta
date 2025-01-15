@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠  Linguagens e Frameworks</h3>
 
 ###
 
@@ -69,8 +69,4 @@
 
 <p align="left">Web-Page Dinâmica com Painel Controle : https://github.com/tamillycosta/Web-Page-PHP-.git</p>
 
-###
 
-<img src="https://raw.githubusercontent.com/tamillycosta/tamillycosta/output/snake.svg" alt="Snake animation" />
-
-###
