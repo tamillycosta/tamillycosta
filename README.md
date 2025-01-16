@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">🛠  Linguagens e Frameworks</h3>
+<h3 align="left">🚀 Tecnologias que Utilizo</h3>
 
 ###
 
@@ -74,4 +74,5 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
+
 
