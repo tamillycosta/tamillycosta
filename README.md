@@ -1,15 +1,4 @@
 
-
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tamillycosta.tamillycosta&"  />
-</div>
-
-###
-
-
 <h1 align="center">Olá, Mundo  👋</h1>
 
 ###
