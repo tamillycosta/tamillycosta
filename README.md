@@ -56,14 +56,6 @@
 
 
 
-###
-
-<h2 align="left">Portifólio</h2>
-
-###
-
-<p align="left">Web-Page Dinâmica com Painel Controle : https://github.com/tamillycosta/Web-Page-PHP-.git</p>
-
 
 ### 📱 Redes Sociais
 
