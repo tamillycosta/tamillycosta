@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">- Atualmente cursando Engenharia de Computação na Universsidade Estadual de Feira de Sanata (UEFS) <br>- 🔭 Em busca da minha primeira experiência prófissional como Dev <br>- ⚡ Foco em Desenvolvimento Web</p>
+<p align="left">- Atualmente cursando Engenharia de Computação na Universsidade Estadual de Feira de Sanata (UEFS) <br>- 🔭 Em busca da minha primeira experiência prófissional como Dev <br>- ⚡ Foco em Desenvolvimento BackEnd</p>
 
 ###
 
@@ -16,8 +16,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -25,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
 ###
@@ -36,8 +37,8 @@
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 ###
 <h3 align="left">🔥   My Stats :</h3>
